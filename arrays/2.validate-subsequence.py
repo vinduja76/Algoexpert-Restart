@@ -1,5 +1,6 @@
 """
-Arrays - Easy Problem
+Day 1: 4th Dec 2022
+Arrays - Easy Problem - 2
 https://www.algoexpert.io/questions/validate-subsequence
 
 Validate Subsequence

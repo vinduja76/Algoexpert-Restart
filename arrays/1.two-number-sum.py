@@ -1,5 +1,6 @@
 """
-Arrays - Easy Problem
+Day 1: 4th Dec 2022
+Arrays - Easy Problem - 1
 https://www.algoexpert.io/questions/two-number-sum
 
 Two Number Sum

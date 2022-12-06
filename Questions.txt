@@ -1,0 +1,4 @@
+Q1. Time Complexity of list append operation in python?
+Q2. Time Complexity of adding two lists in python? Example: result = [1] + result
+Q3. Get key of element with max value in dict python?
+Q4. Sort a dict by value in python in asc and desc order?
