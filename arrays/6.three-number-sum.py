@@ -1,5 +1,5 @@
 """
-Day 2: 6th Dec 2022
+Day 3: 6th Dec 2022
 Arrays - Easy Problem - 6
 https://www.algoexpert.io/questions/three-number-sum
 
