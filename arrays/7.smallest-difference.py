@@ -1,6 +1,6 @@
 """
-Day 4: 6th Dec 2022
-Arrays - Easy Problem - 7
+Day 4: 7th Dec 2022
+Arrays - Medium Problem - 7
 https://www.algoexpert.io/questions/smallest-difference
 
 Smallest Difference

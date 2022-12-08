@@ -1,6 +1,6 @@
 """
-Day 4: 6th Dec 2022
-Arrays - Easy Problem - 8
+Day 4: 7th Dec 2022
+Arrays - Medium Problem - 8
 https://www.algoexpert.io/questions/move-element-to-end
 
 Move Element to End

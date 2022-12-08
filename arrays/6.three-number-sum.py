@@ -1,6 +1,6 @@
 """
 Day 3: 6th Dec 2022
-Arrays - Easy Problem - 6
+Arrays - Medium Problem - 6
 https://www.algoexpert.io/questions/three-number-sum
 
 Three Number Sum
