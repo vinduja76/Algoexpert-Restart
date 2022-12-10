@@ -1,5 +1,5 @@
 """
-Day 4: 8th Dec 2022
+Day 5: 8th Dec 2022
 Arrays - Easy Problem - 10
 https://www.algoexpert.io/questions/spiral-traverse
 
